@@ -1,15 +1,12 @@
 # music-brain88
 
-
-I
-
 Machine Learning, Web Development, Micro Services, System Design, Competetive Programming
 
 ## ⚡ Languages and Technologies...
 
 ### Favorite
 
-![Arch Linux](https://img.shields.io/badge/-ArchLinux-black?logo=Arch Linux)
+![Arch Linux](https://img.shields.io/badge/-ArchLinux-black?logo=Arch%20Linux)
 ![Rust](https://img.shields.io/badge/-Rust-black?logo=rust)
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)
 
