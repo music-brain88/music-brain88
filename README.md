@@ -1,6 +1,7 @@
 # music-brain88
 
-Machine Learning, Web Development, Micro Services, System Design, Competetive Programming
+
+Site Reliability Engineering, Machine Learning, Web Development, Micro Services, System Design, Competetive Programming
 
 ## ⚡ Languages and Technologies...
 
@@ -10,19 +11,35 @@ Machine Learning, Web Development, Micro Services, System Design, Competetive Pr
 ![Rust](https://img.shields.io/badge/-Rust-black?logo=rust)
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)
 
-
 ### Stacks
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)
+#### Machine Learning
+![Pytorch](https://img.shields.io/badge/-Pytorch-black?logo=pytorch)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?logo=tensorflow)
+
+
+#### Front-end
+
 ![React](https://img.shields.io/badge/-React-black?logo=react)
-![Vue](https://img.shields.io/badge/-vue-black?logo=vue.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
-![Java](https://img.shields.io/badge/-java-E34A86?logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)
+![Vue](https://img.shields.io/badge/-vue-232F3E?logo=vue.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+
+#### Backend-end
+![Java](https://img.shields.io/badge/-java-007396?logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c)
+
+#### OS
+![Windows10](https://img.shields.io/badge/-Windows10-4169E1?logo=windows)
+![Ubuntu16](https://img.shields.io/badge/-Ubuntu16.04-black?logo=ubuntu)
+![Ubuntu18](https://img.shields.io/badge/-Ubuntu18.04-black?logo=ubuntu)
+![CentOS7](https://img.shields.io/badge/-CentOS7-262577?logo=centos)
+
+#### Tools
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
@@ -38,3 +55,9 @@ Machine Learning, Web Development, Micro Services, System Design, Competetive Pr
 
 ## GitHub Stats Card
 ![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+## GitHub Repos
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=dotfiles&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=environment&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=ReNomIMG&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=rust_study&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
