@@ -3,22 +3,22 @@
 
 Site Reliability Engineering, Machine Learning, Web Development, Micro Services, System Design, Competetive Programming
 
-## ⚡ Languages and Technologies...
+# ⚡ Languages and Technologies...
 
-### Favorite
+## Favorite
 
 ![Arch Linux](https://img.shields.io/badge/-ArchLinux-black?logo=Arch%20Linux)
 ![Rust](https://img.shields.io/badge/-Rust-black?logo=rust)
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)
 
-### Stacks
+## Stacks
 
-#### Machine Learning
+### Machine Learning
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?logo=pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?logo=tensorflow)
 
 
-#### Front-end
+### Front-end
 
 ![React](https://img.shields.io/badge/-React-black?logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)
@@ -29,17 +29,17 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 
-#### Backend-end
+### Backend-end
 ![Java](https://img.shields.io/badge/-java-007396?logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c)
 
-#### OS
+### OS
 ![Windows10](https://img.shields.io/badge/-Windows10-4169E1?logo=windows)
 ![Ubuntu16](https://img.shields.io/badge/-Ubuntu16.04-black?logo=ubuntu)
 ![Ubuntu18](https://img.shields.io/badge/-Ubuntu18.04-black?logo=ubuntu)
 ![CentOS7](https://img.shields.io/badge/-CentOS7-262577?logo=centos)
 
-#### Tools
+### Tools
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
@@ -50,8 +50,6 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=Raspberry-Pi)
-
-
 
 ## GitHub Stats Card
 ![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
