@@ -33,14 +33,20 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 
 ### Backend-end
 ![Java](https://img.shields.io/badge/-java-007396?logo=java)
+![Spring](https://img.shields.io/badge/-Spring-default?labelColor=white&logo=Spring)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?color=black&logo=php)
+![CakePHP](https://img.shields.io/badge/-CakePHP-black?logo=CakePHP)
+![Larabel](https://img.shields.io/badge/-Larabel-777BB4?labelColor=white&color=orange&logo=Laravel)
+![Flask](https://img.shields.io/badge/-Flask-black?&logo=Flask)
+![Django](https://img.shields.io/badge/-Djnago-black?&logo=Django)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?labelColor=white&logo=Nuxt.js)
 
 ### OS
 ![Windows10](https://img.shields.io/badge/-Windows10-4169E1?logo=windows)
 ![Ubuntu16](https://img.shields.io/badge/-Ubuntu16.04-black?logo=ubuntu)
 ![Ubuntu18](https://img.shields.io/badge/-Ubuntu18.04-black?logo=ubuntu)
 ![CentOS7](https://img.shields.io/badge/-CentOS7-262577?logo=centos)
-
 
 ### Tools
 
@@ -52,6 +58,7 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-MongoDB-47A248?color=fedcba&logo=MongoDB)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
+![k8s](https://img.shields.io/badge/-Kubernetes-326CE5?labelColor=white&logo=Kubernetes)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?logo=bitbucket)
