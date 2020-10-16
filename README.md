@@ -4,6 +4,7 @@
 Site Reliability Engineering, Machine Learning, Web Development, Micro Services, System Design, Competetive Programming
 
 # ⚡ Languages and Technologies...
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=music-brain88&count_private=false&show_icons=true&layout=compact&theme=onedark)
 
 ## Favorite
 
@@ -65,10 +66,10 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=Raspberry-Pi)
 
 ## GitHub Stats Card
-![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&theme=onedark)
 
 ## GitHub Repos
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=dotfiles&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=environment&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=ReNomIMG&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=rust_study&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=dotfiles&theme=onedark)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=environment&theme=onedark)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=ReNomIMG&theme=onedark)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=rust_study&theme=onedark)
