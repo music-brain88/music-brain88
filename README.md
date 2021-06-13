@@ -4,7 +4,7 @@
 Site Reliability Engineering, Machine Learning, Web Development, Micro Services, System Design, Competetive Programming
 
 # ⚡ Languages and Technologies...
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=music-brain88&count_private=false&show_icons=true&layout=compact&theme=onedark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=music-brain88&count_private=true&show_icons=true&layout=compact&theme=onedark&langs_count=20)
 
 ## Favorite
 
@@ -44,9 +44,12 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?labelColor=white&logo=Nuxt.js)
 
 ### OS
+
 ![Windows10](https://img.shields.io/badge/-Windows10-4169E1?logo=windows)
 ![Ubuntu16](https://img.shields.io/badge/-Ubuntu16.04-black?logo=ubuntu)
 ![Ubuntu18](https://img.shields.io/badge/-Ubuntu18.04-black?logo=ubuntu)
+![Ubuntu20](https://img.shields.io/badge/-Ubuntu20.04-black?logo=ubuntu)
+![AmazonLinux2](https://img.shields.io/badge/-AmazonLinux2-black?logo=amazon)
 ![CentOS7](https://img.shields.io/badge/-CentOS7-262577?logo=centos)
 
 ### Tools
@@ -67,9 +70,11 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 
 ## GitHub Stats Card
 ![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&theme=onedark)
+[![music-brain88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=music-brain88&show_icons=true&theme=onedark)
 
 ## GitHub Repos
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=dotfiles&theme=onedark)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=environment&theme=onedark)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=ReNomIMG&theme=onedark)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=rust_study&theme=onedark)
+
