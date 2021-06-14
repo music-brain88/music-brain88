@@ -8,7 +8,15 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 
 ## GitHub Stats Card
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=music-brain88&count_private=true&show_icons=true&layout=compact&theme=onedark&langs_count=20)![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&theme=onedark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=music-brain88&theme=solarized_dark)
+
+
+[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=music-brain88&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 ![music-brain88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=music_brain88&show_icons=true&theme=onedark)
 
