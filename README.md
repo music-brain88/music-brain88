@@ -1,10 +1,24 @@
 # music-brain88
 
+![](https://komarev.com/ghpvc/?username=music-brain88)![](https://img.shields.io/twitter/follow/music_brain88?style=social)
 
 Site Reliability Engineering, Machine Learning, Web Development, Micro Services, System Design, Competetive Programming
 
 # ⚡ Languages and Technologies...
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=music-brain88&count_private=false&show_icons=true&layout=compact&theme=onedark)
+
+## GitHub Stats Card
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=music-brain88&count_private=true&show_icons=true&layout=compact&theme=onedark&langs_count=20)![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&theme=onedark)
+
+
+[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=music-brain88&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+![music-brain88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=music_brain88&show_icons=true&theme=onedark)
 
 ## Favorite
 
@@ -44,9 +58,12 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?labelColor=white&logo=Nuxt.js)
 
 ### OS
+
 ![Windows10](https://img.shields.io/badge/-Windows10-4169E1?logo=windows)
 ![Ubuntu16](https://img.shields.io/badge/-Ubuntu16.04-black?logo=ubuntu)
 ![Ubuntu18](https://img.shields.io/badge/-Ubuntu18.04-black?logo=ubuntu)
+![Ubuntu20](https://img.shields.io/badge/-Ubuntu20.04-black?logo=ubuntu)
+![AmazonLinux2](https://img.shields.io/badge/-AmazonLinux2-black?logo=amazon)
 ![CentOS7](https://img.shields.io/badge/-CentOS7-262577?logo=centos)
 
 ### Tools
@@ -65,11 +82,10 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=Raspberry-Pi)
 
-## GitHub Stats Card
-![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&theme=onedark)
 
 ## GitHub Repos
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=dotfiles&theme=onedark)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=environment&theme=onedark)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=ReNomIMG&theme=onedark)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=rust_study&theme=onedark)
+
