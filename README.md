@@ -1,6 +1,6 @@
 # music-brain88
 
-![](https://komarev.com/ghpvc/?username=music-brain88)![](https://img.shields.io/twitter/follow/music_brain88?style=social)
+![](https://komarev.com/ghpvc/?username=music-brain88)
 
 Site Reliability Engineering, Machine Learning, Web Development, Micro Services, System Design, Competetive Programming
 
