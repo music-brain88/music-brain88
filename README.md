@@ -70,7 +70,7 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 
 ## GitHub Stats Card
 ![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&theme=onedark)
-[![music-brain88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=music-brain88&show_icons=true&theme=onedark)
+![music-brain88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=music_brain88&show_icons=true&theme=onedark)
 
 ## GitHub Repos
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=dotfiles&theme=onedark)
