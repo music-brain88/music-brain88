@@ -1,11 +1,13 @@
 # music-brain88
 
 ![](https://komarev.com/ghpvc/?username=music-brain88)
+![](https://img.shields.io/twitter/follow/music_brain88?style=social)
 
 Site Reliability Engineering, Machine Learning, Web Development, Micro Services, System Design, Competetive Programming
 
 # ⚡ Languages and Technologies...
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=music-brain88&count_private=true&show_icons=true&layout=compact&theme=onedark&langs_count=20)
+[![trophy](https://github-profile-trophy.vercel.app/?username=music-brain88)](https://github.com/music-brain88/github-profile-trophy)
 
 ## Favorite
 
