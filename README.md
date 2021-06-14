@@ -7,8 +7,9 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 # ⚡ Languages and Technologies...
 
 ## GitHub Stats Card
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=music-brain88&count_private=true&show_icons=true&layout=compact&theme=onedark&langs_count=20)[![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&theme=onedark)
-![trophy](https://github-profile-trophy.vercel.app/?username=music-brain88)]
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=music-brain88&count_private=true&show_icons=true&layout=compact&theme=onedark&langs_count=20)![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&theme=onedark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=music-brain88&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 ![music-brain88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=music_brain88&show_icons=true&theme=onedark)
 
 ## Favorite
