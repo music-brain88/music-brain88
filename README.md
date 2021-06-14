@@ -1,13 +1,15 @@
 # music-brain88
 
-![](https://komarev.com/ghpvc/?username=music-brain88)
-![](https://img.shields.io/twitter/follow/music_brain88?style=social)
+![](https://komarev.com/ghpvc/?username=music-brain88)![](https://img.shields.io/twitter/follow/music_brain88?style=social)
 
 Site Reliability Engineering, Machine Learning, Web Development, Micro Services, System Design, Competetive Programming
 
 # ⚡ Languages and Technologies...
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=music-brain88&count_private=true&show_icons=true&layout=compact&theme=onedark&langs_count=20)
-[![trophy](https://github-profile-trophy.vercel.app/?username=music-brain88)](https://github.com/music-brain88/github-profile-trophy)
+
+## GitHub Stats Card
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=music-brain88&count_private=true&show_icons=true&layout=compact&theme=onedark&langs_count=20)[![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=music-brain88)]
+![music-brain88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=music_brain88&show_icons=true&theme=onedark)
 
 ## Favorite
 
@@ -71,9 +73,6 @@ Site Reliability Engineering, Machine Learning, Web Development, Micro Services,
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=Raspberry-Pi)
 
-## GitHub Stats Card
-![music-brain88's github stats](https://github-readme-stats.vercel.app/api?username=music-brain88&show_icons=true&theme=onedark)
-![music-brain88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=music_brain88&show_icons=true&theme=onedark)
 
 ## GitHub Repos
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=dotfiles&theme=onedark)
