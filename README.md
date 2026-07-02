@@ -60,5 +60,4 @@
 <a href="https://github.com/music-brain88/dotfiles"><img src="https://opengraph.githubassets.com/1/music-brain88/dotfiles" width="420" alt="dotfiles" /></a>
 <a href="https://github.com/music-brain88/copilot-quorum"><img src="https://opengraph.githubassets.com/1/music-brain88/copilot-quorum" width="420" alt="copilot-quorum" /></a>
 
-<a href="https://github.com/music-brain88/llm-context-builder"><img src="https://opengraph.githubassets.com/1/music-brain88/llm-context-builder" width="420" alt="llm-context-builder" /></a>
 <a href="https://github.com/music-brain88/Azure-Credit-Burner"><img src="https://opengraph.githubassets.com/1/music-brain88/Azure-Credit-Burner" width="420" alt="Azure-Credit-Burner" /></a>
