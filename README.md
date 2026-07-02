@@ -57,8 +57,8 @@
 
 ## 📌 Featured Projects
 
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=music-brain88&repo=dotfiles&theme=tokyonight)](https://github.com/music-brain88/dotfiles)
-[![copilot-quorum](https://github-readme-stats.vercel.app/api/pin/?username=music-brain88&repo=copilot-quorum&theme=tokyonight)](https://github.com/music-brain88/copilot-quorum)
+<a href="https://github.com/music-brain88/dotfiles"><img src="https://opengraph.githubassets.com/1/music-brain88/dotfiles" width="420" alt="dotfiles" /></a>
+<a href="https://github.com/music-brain88/copilot-quorum"><img src="https://opengraph.githubassets.com/1/music-brain88/copilot-quorum" width="420" alt="copilot-quorum" /></a>
 
-[![llm-context-builder](https://github-readme-stats.vercel.app/api/pin/?username=music-brain88&repo=llm-context-builder&theme=tokyonight)](https://github.com/music-brain88/llm-context-builder)
-[![Azure-Credit-Burner](https://github-readme-stats.vercel.app/api/pin/?username=music-brain88&repo=Azure-Credit-Burner&theme=tokyonight)](https://github.com/music-brain88/Azure-Credit-Burner)
+<a href="https://github.com/music-brain88/llm-context-builder"><img src="https://opengraph.githubassets.com/1/music-brain88/llm-context-builder" width="420" alt="llm-context-builder" /></a>
+<a href="https://github.com/music-brain88/Azure-Credit-Burner"><img src="https://opengraph.githubassets.com/1/music-brain88/Azure-Credit-Burner" width="420" alt="Azure-Credit-Burner" /></a>
