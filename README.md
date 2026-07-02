@@ -1,94 +1,62 @@
-# music-brain88
+# Hi there, I'm music-brain88 👋
 
-![](https://komarev.com/ghpvc/?username=music-brain88)
+![Profile views](https://komarev.com/ghpvc/?username=music-brain88&style=flat-square&color=7aa2f7)
 
-Site Reliability Engineering, Machine Learning, Web Development, Micro Services, System Design, Competetive Programming
+**Site Reliability Engineer** based in Tokyo 🗼 — building reliable systems by day, hacking on **Rust × LLM tooling** by night.
 
-# ⚡ Languages and Technologies...
+- 🦀 Currently building: [copilot-quorum](https://github.com/music-brain88/copilot-quorum) — multiple LLMs discuss and reach consensus on your questions
+- 🛠️ Daily drivers: Arch Linux + Neovim + Rust
+- 🌱 Interests: SRE, Machine Learning, System Design, Distributed Systems
 
-## GitHub Stats Card
+## ⚡ Tech Stack
 
+### Languages
 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
+![Shell](https://img.shields.io/badge/-Shell-000000?style=flat-square&logo=gnubash)
 
-[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### Infrastructure & SRE
 
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat-square&logoColor=FF9900)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
+![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat-square&logo=terraform)
+![Pulumi](https://img.shields.io/badge/-Pulumi-000000?style=flat-square&logo=pulumi)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat-square&logo=elasticsearch)
 
+### Machine Learning & AI
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=music-brain88&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### Environment
 
-![music-brain88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=music_brain88&show_icons=true&theme=onedark)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat-square&logo=archlinux)
+![Neovim](https://img.shields.io/badge/-Neovim-000000?style=flat-square&logo=neovim)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000000?style=flat-square&logo=githubactions)
 
-## Favorite
+## 📊 GitHub Stats
 
-![Arch Linux](https://img.shields.io/badge/-ArchLinux-black?logo=Arch%20Linux)
-![Neovim](https://img.shields.io/badge/-Neovim-black?logo=Neovim)
-![Rust](https://img.shields.io/badge/-Rust-black?logo=rust)
-![Python](https://img.shields.io/badge/-Python-black?logo=Python)
+[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Stacks
+[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### Machine Learning
-![Pytorch](https://img.shields.io/badge/-Pytorch-black?logo=pytorch)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?logo=tensorflow)
+[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=music-brain88&theme=tokyonight&row=1&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Front-end
+## 📌 Featured Projects
 
-![React](https://img.shields.io/badge/-React-black?logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)
-![Vue](https://img.shields.io/badge/-vue-232F3E?logo=vue.js)
-![D3.js](https://img.shields.io/badge/-D3.js-black?logo=d3.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=music-brain88&repo=dotfiles&theme=tokyonight)](https://github.com/music-brain88/dotfiles)
+[![copilot-quorum](https://github-readme-stats.vercel.app/api/pin/?username=music-brain88&repo=copilot-quorum&theme=tokyonight)](https://github.com/music-brain88/copilot-quorum)
 
-### Backend-end
-![Java](https://img.shields.io/badge/-java-007396?logo=java)
-![Spring](https://img.shields.io/badge/-Spring-default?labelColor=white&logo=Spring)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?color=black&logo=php)
-![CakePHP](https://img.shields.io/badge/-CakePHP-black?logo=CakePHP)
-![Larabel](https://img.shields.io/badge/-Larabel-777BB4?labelColor=white&color=orange&logo=Laravel)
-![Flask](https://img.shields.io/badge/-Flask-black?&logo=Flask)
-![Django](https://img.shields.io/badge/-Djnago-black?&logo=Django)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?labelColor=white&logo=Nuxt.js)
-
-### OS
-
-![Windows10](https://img.shields.io/badge/-Windows10-4169E1?logo=windows)
-![Ubuntu16](https://img.shields.io/badge/-Ubuntu16.04-black?logo=ubuntu)
-![Ubuntu18](https://img.shields.io/badge/-Ubuntu18.04-black?logo=ubuntu)
-![Ubuntu20](https://img.shields.io/badge/-Ubuntu20.04-black?logo=ubuntu)
-![AmazonLinux2](https://img.shields.io/badge/-AmazonLinux2-black?logo=amazon)
-![CentOS7](https://img.shields.io/badge/-CentOS7-262577?logo=centos)
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![Auth0](https://img.shields.io/badge/-Auth0-181717?logo=auth0)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-MongoDB-47A248?color=fedcba&logo=MongoDB)
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
-![k8s](https://img.shields.io/badge/-Kubernetes-326CE5?labelColor=white&logo=Kubernetes)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=Raspberry-Pi)
-
-
-## GitHub Repos
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=dotfiles&theme=onedark)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=environment&theme=onedark)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=ReNomIMG&theme=onedark)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=music-brain88&repo=rust_study&theme=onedark)
-
+[![llm-context-builder](https://github-readme-stats.vercel.app/api/pin/?username=music-brain88&repo=llm-context-builder&theme=tokyonight)](https://github.com/music-brain88/llm-context-builder)
+[![Azure-Credit-Burner](https://github-readme-stats.vercel.app/api/pin/?username=music-brain88&repo=Azure-Credit-Burner&theme=tokyonight)](https://github.com/music-brain88/Azure-Credit-Burner)
