@@ -51,7 +51,9 @@
 [![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/music-brain88/music-brain88/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=music-brain88&theme=tokyonight&row=1&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=music-brain88&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=music-brain88&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📌 Featured Projects
 
